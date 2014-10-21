@@ -1,0 +1,41 @@
+List of UK/GBP Bitcoin businesses
+---------------------------------
+
+Note: This list excludes merchants
+
+* [Altcoin Speculation](http://altcoinspeculation.com)
+* [BitBargain](https://bitbargain.co.uk)
+* [Bitcoin Consultants](http://bitcoin-consultants.co.uk)
+* [Bitcoin Solutions](http://bitcoin-solutions.co.uk)
+* [Bitcoin123](https://www.bitcoin123.co.uk)
+* [BitPay](https://bitpay.com)
+* [BittyBot](http://bittybot.co.uk)
+* [Bittylicious](https://bittylicious.com)
+* [btc.sx](https://btc.sx)
+* [Bullion Bitcoin](https://bullionbitcoin.com)
+* [Coinapult](https://coinapult.com)
+* [Coinbase](https://www.coinbase.com)
+* [CoinCorner](https://www.coincorner.com)
+* [CoinCut](https://www.coincut.com)
+* [Coinduit](https://coinduit.io)
+* [Coinfloor](https://www.coinfloor.co.uk)
+* [Coinjar](https://www.coinjar.com)
+* [Coinometrics](http://www.coinometrics.com)
+* [Coinscrum](http://www.coinscrum.com)
+* [CoinSummit](http://www.coinsumm.it)
+* [Coinvulcan](http://matrixvision.eu)
+* [Cryptopay](https://cryptopay.me)
+* CUCCS
+* [Elliptic](https://www.elliptic.co)
+* Epiphyte
+* Global Bitcoin ATM
+* [IBWT](https://ibwt.co.uk)
+* [Kraken](https://www.kraken.com)
+* [LocalBitcoins](https://localbitcoins.com)
+* [MatrixVision](http://matrixvision.eu/)
+* [Oxford Virtual Currency Working Group](http://oxvirtualcurrency.wordpress.com)
+* [QuickBitcoin](https://quickbitcoin.co.uk)
+* [Speedy Bitcoin](https://speedybitcoin.co.uk)
+* [UKDCA](https://www.ukdca.org)
+* [VAIEX](http://www.vaiex.com)
+* [XBTerminal](https://xbterminal.io)
